@@ -1,0 +1,17 @@
+body{
+    background-image: url("fe50db05921b0ede69affca06540975f.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-variant: small-caps;
+}
+table{
+    background-color: rgba(31, 2, 2, 0.571);
+}
+button{
+    background-color: gray;
+}
+input{
+    background-color: grey;
+}
